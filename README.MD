@@ -1,1 +1,2 @@
-### vocabulary dataset from courses on memrise
+### Vocabulary dataset from courses on memrise
+Known issue: duplicated words
