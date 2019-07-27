@@ -1,0 +1,2575 @@
+{
+  "course_title": "traditional-mandarin-vocab-level-1",
+  "levels": [
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "名字",
+          "b": "míngzi",
+          "pron": "ming2 zi4"
+        },
+        {
+          "a": "姓",
+          "b": "xìng",
+          "pron": "xing4"
+        },
+        {
+          "a": "姓名",
+          "b": "xìngmíng",
+          "pron": "xing4 ming2"
+        },
+        {
+          "a": "生日",
+          "b": "shēngrì",
+          "pron": "sheng1 ri4"
+        },
+        {
+          "a": "來",
+          "b": "lái",
+          "pron": "lai2"
+        },
+        {
+          "a": "公園",
+          "b": "gōngyuán",
+          "pron": "gong1 yuan2"
+        },
+        {
+          "a": "住",
+          "b": "zhù",
+          "pron": "zhu4"
+        },
+        {
+          "a": "國家",
+          "b": "guójiā",
+          "pron": "guo2 jia1"
+        },
+        {
+          "a": "中國",
+          "b": "zhōngguó",
+          "pron": "zhong1 guo2"
+        },
+        {
+          "a": "台灣",
+          "b": "táiwān",
+          "pron": "tai2 wan1"
+        },
+        {
+          "a": "美國",
+          "b": "měiguó",
+          "pron": "mei3 guo2"
+        },
+        {
+          "a": "日本",
+          "b": "rìběn",
+          "pron": "ri4 ben3"
+        },
+        {
+          "a": "人",
+          "b": "rén",
+          "pron": "ren2"
+        },
+        {
+          "a": "城市",
+          "b": "chéngshì",
+          "pron": "cheng2 shi4"
+        },
+        {
+          "a": "街",
+          "b": "jiē",
+          "pron": "jie1"
+        },
+        {
+          "a": "路",
+          "b": "lù",
+          "pron": "lu4"
+        },
+        {
+          "a": "號",
+          "b": "hào",
+          "pron": "hao4"
+        },
+        {
+          "a": "號碼",
+          "b": "hàomǎ",
+          "pron": "hao4 ma3"
+        },
+        {
+          "a": "電話",
+          "b": "diànhuà",
+          "pron": "dian4 hua4"
+        },
+        {
+          "a": "手機",
+          "b": "shǒujī",
+          "pron": "shou3 ji1"
+        },
+        {
+          "a": "打電話",
+          "b": "dǎdiànhuà",
+          "pron": "da3 dian4 hua4"
+        },
+        {
+          "a": "電子郵件",
+          "b": "diàn​zǐ​yóu​jiàn",
+          "pron": "dian4 zi5 you2 jian4"
+        },
+        {
+          "a": "結婚",
+          "b": "jiéhūn",
+          "pron": "jie2 hun1"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "年",
+          "b": "nián",
+          "pron": "nian2"
+        },
+        {
+          "a": "去年",
+          "b": "qùnián",
+          "pron": "qu4 nian2"
+        },
+        {
+          "a": "明年",
+          "b": "míngnián",
+          "pron": "ming2 nian2"
+        },
+        {
+          "a": "今年",
+          "b": "jīnnián",
+          "pron": "jin1 nian2"
+        },
+        {
+          "a": "月",
+          "b": "yuè",
+          "pron": "yue4"
+        },
+        {
+          "a": "日",
+          "b": "rì",
+          "pron": "ri4"
+        },
+        {
+          "a": "時候",
+          "b": "shíhòu",
+          "pron": "shi2 hou4"
+        },
+        {
+          "a": "小時",
+          "b": "xiǎoshí",
+          "pron": "xiao3 shi2"
+        },
+        {
+          "a": "點",
+          "b": "diǎn",
+          "pron": "dian3"
+        },
+        {
+          "a": "點鐘",
+          "b": "diǎnzhōng",
+          "pron": "dian3 zhong1"
+        },
+        {
+          "a": "分",
+          "b": "fēn",
+          "pron": "fen1"
+        },
+        {
+          "a": "分鐘",
+          "b": "fēnzhōng",
+          "pron": "fen1 zhong1"
+        },
+        {
+          "a": "早上",
+          "b": "zǎoshang",
+          "pron": "zao3 shang4"
+        },
+        {
+          "a": "上午",
+          "b": "shàngwǔ",
+          "pron": "shang4 wu3"
+        },
+        {
+          "a": "中午",
+          "b": "zhōngwǔ",
+          "pron": "zhong1 wu3"
+        },
+        {
+          "a": "下午",
+          "b": "xiàwǔ",
+          "pron": "xia4 wu3"
+        },
+        {
+          "a": "晚上",
+          "b": "wǎnshang",
+          "pron": "wan3 shang4"
+        },
+        {
+          "a": "星期",
+          "b": "xīngqí",
+          "pron": "xing1 qi1"
+        },
+        {
+          "a": "星期天",
+          "b": "xīngqítiān",
+          "pron": "xing1 qi1 tian1"
+        },
+        {
+          "a": "週末",
+          "b": "zhōumò",
+          "pron": "zhou1 mo4"
+        },
+        {
+          "a": "天",
+          "b": "tiān",
+          "pron": "tian1"
+        },
+        {
+          "a": "昨天",
+          "b": "zuótiān",
+          "pron": "zuo2 tian1"
+        },
+        {
+          "a": "今天",
+          "b": "jīntiān",
+          "pron": "jin1 tian1"
+        },
+        {
+          "a": "明天",
+          "b": "míngtiān",
+          "pron": "ming2 tian1"
+        },
+        {
+          "a": "現在",
+          "b": "xiànzài",
+          "pron": "xian4 zai4"
+        },
+        {
+          "a": "夏天",
+          "b": "xiàtiān",
+          "pron": "xia4 tian1"
+        },
+        {
+          "a": "冬天",
+          "b": "dōngtiān",
+          "pron": "dong1 tian1"
+        },
+        {
+          "a": "秋天",
+          "b": "qiūtiān",
+          "pron": "qiu1 tian1"
+        },
+        {
+          "a": "春天",
+          "b": "chūntiān",
+          "pron": "chun1 tian1"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "大家",
+          "b": "dàjiā",
+          "pron": "da4 jia1"
+        },
+        {
+          "a": "歲",
+          "b": "suì",
+          "pron": "sui4"
+        },
+        {
+          "a": "年輕",
+          "b": "niánqīng",
+          "pron": "nian2 qing1"
+        },
+        {
+          "a": "老",
+          "b": "lǎo",
+          "pron": "lao3"
+        },
+        {
+          "a": "男",
+          "b": "nán",
+          "pron": "nan2"
+        },
+        {
+          "a": "男生",
+          "b": "nánshēng",
+          "pron": "nan2 sheng1"
+        },
+        {
+          "a": "女",
+          "b": "nǚ",
+          "pron": "nv3"
+        },
+        {
+          "a": "女生",
+          "b": "nǚshēng",
+          "pron": "nv3 sheng1"
+        },
+        {
+          "a": "先生",
+          "b": "xiānshēng",
+          "pron": "xian1 sheng1"
+        },
+        {
+          "a": "太太",
+          "b": "tàitai",
+          "pron": "tai4 tai4"
+        },
+        {
+          "a": "小姐",
+          "b": "xiǎojiě",
+          "pron": "xiao3 jie3"
+        },
+        {
+          "a": "小孩",
+          "b": "xiǎohái",
+          "pron": "xiao3 hai2"
+        },
+        {
+          "a": "家",
+          "b": "jiā",
+          "pron": "jia1"
+        },
+        {
+          "a": "家人",
+          "b": "jiārén",
+          "pron": "jia1 ren2"
+        },
+        {
+          "a": "爸爸",
+          "b": "bàba",
+          "pron": "ba4 ba4"
+        },
+        {
+          "a": "媽媽",
+          "b": "māma",
+          "pron": "ma1 ma1"
+        },
+        {
+          "a": "孩子",
+          "b": "háizi",
+          "pron": "hai2 zi5"
+        },
+        {
+          "a": "兒子",
+          "b": "érzǐ",
+          "pron": "er2 zi5"
+        },
+        {
+          "a": "女兒",
+          "b": "nǚér",
+          "pron": "nv3 er2"
+        },
+        {
+          "a": "弟弟",
+          "b": "dìdi",
+          "pron": "di4 di5"
+        },
+        {
+          "a": "哥哥",
+          "b": "gēge",
+          "pron": "ge1 ge1"
+        },
+        {
+          "a": "妹妹",
+          "b": "mèimei",
+          "pron": "mei4 mei4"
+        },
+        {
+          "a": "姊姊",
+          "b": "jiějie",
+          "pron": "zi3 zi3"
+        },
+        {
+          "a": "好",
+          "b": "hǎo",
+          "pron": "hao3"
+        },
+        {
+          "a": "真",
+          "b": "zhēn",
+          "pron": "zhen1"
+        },
+        {
+          "a": "很",
+          "b": "hěn",
+          "pron": "hen3"
+        },
+        {
+          "a": "太",
+          "b": "tài",
+          "pron": "tai4"
+        },
+        {
+          "a": "非常",
+          "b": "fēicháng",
+          "pron": "fei1 chang2"
+        },
+        {
+          "a": "笑",
+          "b": "xiào",
+          "pron": "xiao4"
+        },
+        {
+          "a": "高興",
+          "b": "gāoxìng",
+          "pron": "gao1 xing4"
+        },
+        {
+          "a": "快樂",
+          "b": "kuàilè",
+          "pron": "kuai4 le4"
+        },
+        {
+          "a": "緊張",
+          "b": "jǐnzhāng",
+          "pron": "jin3 zhang1"
+        },
+        {
+          "a": "愛",
+          "b": "ài",
+          "pron": "ai4"
+        },
+        {
+          "a": "喜歡",
+          "b": "xǐhuān",
+          "pron": "xi3 huan1"
+        },
+        {
+          "a": "覺得",
+          "b": "juéde",
+          "pron": "jue2 de2"
+        },
+        {
+          "a": "漂亮",
+          "b": "piàoliang",
+          "pron": "piao4 liang4"
+        },
+        {
+          "a": "好看",
+          "b": "hǎokàn",
+          "pron": "hao3 kan4"
+        },
+        {
+          "a": "可愛",
+          "b": "kěài",
+          "pron": "ke3 ai4"
+        },
+        {
+          "a": "胖",
+          "b": "pàng",
+          "pron": "pang4"
+        },
+        {
+          "a": "高",
+          "b": "gāo",
+          "pron": "gao1"
+        },
+        {
+          "a": "矮",
+          "b": "ǎi",
+          "pron": "ai3"
+        },
+        {
+          "a": "瘦",
+          "b": "shòu",
+          "pron": "shou4"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "第",
+          "b": "dì",
+          "pron": "di4"
+        },
+        {
+          "a": "零",
+          "b": "líng",
+          "pron": "ling2"
+        },
+        {
+          "a": "一",
+          "b": "yī",
+          "pron": "yi1"
+        },
+        {
+          "a": "二",
+          "b": "èr",
+          "pron": "er4"
+        },
+        {
+          "a": "兩",
+          "b": "liǎng",
+          "pron": "liang3"
+        },
+        {
+          "a": "三",
+          "b": "sān",
+          "pron": "san1"
+        },
+        {
+          "a": "四",
+          "b": "sì",
+          "pron": "si4"
+        },
+        {
+          "a": "五",
+          "b": "wǔ",
+          "pron": "wu3"
+        },
+        {
+          "a": "六",
+          "b": "liù",
+          "pron": "liu4"
+        },
+        {
+          "a": "七",
+          "b": "qī",
+          "pron": "qi1"
+        },
+        {
+          "a": "八",
+          "b": "bā",
+          "pron": "ba1"
+        },
+        {
+          "a": "九",
+          "b": "jiǔ",
+          "pron": "jiu3"
+        },
+        {
+          "a": "十",
+          "b": "shí",
+          "pron": "shi2"
+        },
+        {
+          "a": "百",
+          "b": "bǎi",
+          "pron": "bai3"
+        },
+        {
+          "a": "千",
+          "b": "qiān",
+          "pron": "qian1"
+        },
+        {
+          "a": "萬",
+          "b": "wàn",
+          "pron": "wan4"
+        },
+        {
+          "a": "半",
+          "b": "bàn",
+          "pron": "ban4"
+        },
+        {
+          "a": "個",
+          "b": "gè",
+          "pron": "ge4"
+        },
+        {
+          "a": "我",
+          "b": "wǒ",
+          "pron": "wo3"
+        },
+        {
+          "a": "你",
+          "b": "nǐ",
+          "pron": "ni3"
+        },
+        {
+          "a": "您",
+          "b": "nín",
+          "pron": "nin2"
+        },
+        {
+          "a": "他/她",
+          "b": "tā",
+          "pron": "ta1 /5 ta1"
+        },
+        {
+          "a": "我們",
+          "b": "wǒmen",
+          "pron": "wo3 men5"
+        },
+        {
+          "a": "你們",
+          "b": "nǐmen",
+          "pron": "ni3 men5"
+        },
+        {
+          "a": "他們",
+          "b": "tāmen",
+          "pron": "ta1 men5"
+        },
+        {
+          "a": "在",
+          "b": "zài",
+          "pron": "zai4"
+        },
+        {
+          "a": "在",
+          "b": "zài",
+          "pron": "zai4"
+        },
+        {
+          "a": "從",
+          "b": "cóng",
+          "pron": "cong2"
+        },
+        {
+          "a": "是",
+          "b": "shì",
+          "pron": "shi4"
+        },
+        {
+          "a": "的",
+          "b": "de",
+          "pron": "de5"
+        },
+        {
+          "a": "誰",
+          "b": "shéi",
+          "pron": "shui2"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "醫院",
+          "b": "yīyuàn",
+          "pron": "yi1 yuan4"
+        },
+        {
+          "a": "辦公室",
+          "b": "bàngōngshì",
+          "pron": "ban4 gong1 shi4"
+        },
+        {
+          "a": "工廠",
+          "b": "gōngchăng",
+          "pron": "gong1 chang3"
+        },
+        {
+          "a": "工人",
+          "b": "gōngrén",
+          "pron": "gong1 ren2"
+        },
+        {
+          "a": "老師",
+          "b": "lǎoshī",
+          "pron": "lao3 shi1"
+        },
+        {
+          "a": "醫生",
+          "b": "yīshēng",
+          "pron": "yi1 sheng1"
+        },
+        {
+          "a": "護士",
+          "b": "hùshì",
+          "pron": "hu4 shi4"
+        },
+        {
+          "a": "司機",
+          "b": "sījī",
+          "pron": "si1 ji1"
+        },
+        {
+          "a": "老闆",
+          "b": "lǎobǎn",
+          "pron": "lao3 ban3"
+        },
+        {
+          "a": "同事",
+          "b": "tóngshì",
+          "pron": "tong2 shi4"
+        },
+        {
+          "a": "公司",
+          "b": "gōngsī",
+          "pron": "gong1 si1"
+        },
+        {
+          "a": "買",
+          "b": "mǎi",
+          "pron": "mai3"
+        },
+        {
+          "a": "賣",
+          "b": "mài",
+          "pron": "mai4"
+        },
+        {
+          "a": "電腦",
+          "b": "diànnǎo",
+          "pron": "dian4 nao3"
+        },
+        {
+          "a": "工作",
+          "b": "gōngzuò",
+          "pron": "gong1 zuo4"
+        },
+        {
+          "a": "上班",
+          "b": "shàngbān",
+          "pron": "shang4 ban1"
+        },
+        {
+          "a": "準備",
+          "b": "zhǔnbèi",
+          "pron": "zhun3 bei4"
+        },
+        {
+          "a": "忙",
+          "b": "máng",
+          "pron": "mang2"
+        },
+        {
+          "a": "學校",
+          "b": "xuéxiào",
+          "pron": "xue2 xiao4"
+        },
+        {
+          "a": "小學",
+          "b": "xiǎoxué",
+          "pron": "xiao3 xue2"
+        },
+        {
+          "a": "中學",
+          "b": "zhōngxué",
+          "pron": "zhong1 xue2"
+        },
+        {
+          "a": "大學",
+          "b": "dàxué",
+          "pron": "da4 xue2"
+        },
+        {
+          "a": "年級",
+          "b": "niánjí",
+          "pron": "nian2 ji2"
+        },
+        {
+          "a": "學生",
+          "b": "xuéshēng",
+          "pron": "xue2 sheng1"
+        },
+        {
+          "a": "上學",
+          "b": "shàngxué",
+          "pron": "shang4 xue2"
+        },
+        {
+          "a": "上課",
+          "b": "shàngkè",
+          "pron": "shang4 ke4"
+        },
+        {
+          "a": "下課",
+          "b": "xiàkè",
+          "pron": "xia4 ke4"
+        },
+        {
+          "a": "作業",
+          "b": "zuòyè",
+          "pron": "zuo4 ye4"
+        },
+        {
+          "a": "功課",
+          "b": "gōngkè",
+          "pron": "gong1 ke4"
+        },
+        {
+          "a": "請假",
+          "b": "qǐngjià",
+          "pron": "qing3 jia3"
+        },
+        {
+          "a": "考試",
+          "b": "kǎoshì",
+          "pron": "kao3 shi4"
+        },
+        {
+          "a": "考試",
+          "b": "kǎoshì",
+          "pron": "kao3 shi4"
+        },
+        {
+          "a": "圖書館",
+          "b": "túshūguǎn",
+          "pron": "tu2 shu1 guan3"
+        },
+        {
+          "a": "教室",
+          "b": "jiàoshì",
+          "pron": "jiao4 shi4"
+        },
+        {
+          "a": "廁所",
+          "b": "cèsuǒ",
+          "pron": "ce4 suo3"
+        },
+        {
+          "a": "洗手間",
+          "b": "xǐshǒujiān",
+          "pron": "xi3 shou3 jian1"
+        },
+        {
+          "a": "飯館",
+          "b": "fànguǎn",
+          "pron": "fan4 guan3"
+        },
+        {
+          "a": "餐廳",
+          "b": "cāntīng",
+          "pron": "can1 ting1"
+        },
+        {
+          "a": "歷史",
+          "b": "lìshĭ",
+          "pron": "li4 shi3"
+        },
+        {
+          "a": "數學",
+          "b": "shùxué",
+          "pron": "shu4 xue2"
+        },
+        {
+          "a": "語言",
+          "b": "yǔyán",
+          "pron": "yu3 yan2"
+        },
+        {
+          "a": "科學",
+          "b": "kēxué",
+          "pron": "ke1 xue2"
+        },
+        {
+          "a": "英文",
+          "b": "yīngwén",
+          "pron": "ying1 wen2"
+        },
+        {
+          "a": "華文",
+          "b": "huáwén",
+          "pron": "hua2 wen2"
+        },
+        {
+          "a": "黑板",
+          "b": "hēibǎn",
+          "pron": "hei1 ban3"
+        },
+        {
+          "a": "筆",
+          "b": "bǐ",
+          "pron": "bi3"
+        },
+        {
+          "a": "紙",
+          "b": "zhǐ",
+          "pron": "zhi3"
+        },
+        {
+          "a": "課本",
+          "b": "kèběn",
+          "pron": "ke4 ben3"
+        },
+        {
+          "a": "本",
+          "b": "běn",
+          "pron": "ben3"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "字",
+          "b": "zì",
+          "pron": "zi4"
+        },
+        {
+          "a": "句子",
+          "b": "jùzi",
+          "pron": "ju4 zi5"
+        },
+        {
+          "a": "注意",
+          "b": "zhùyì",
+          "pron": "zhu4 yi4"
+        },
+        {
+          "a": "寫",
+          "b": "xiě",
+          "pron": "xie3"
+        },
+        {
+          "a": "聽",
+          "b": "tīng",
+          "pron": "ting1"
+        },
+        {
+          "a": "讀",
+          "b": "dú",
+          "pron": "du2"
+        },
+        {
+          "a": "讀書",
+          "b": "dúshū",
+          "pron": "du2 shu1"
+        },
+        {
+          "a": "說",
+          "b": "shuō",
+          "pron": "shuo1"
+        },
+        {
+          "a": "說話",
+          "b": "shuōhuà",
+          "pron": "shuo1 hua4"
+        },
+        {
+          "a": "學",
+          "b": "xué",
+          "pron": "xue2"
+        },
+        {
+          "a": "學習",
+          "b": "xuéxí",
+          "pron": "xue2 xi2"
+        },
+        {
+          "a": "練習",
+          "b": "liànxí",
+          "pron": "lian4 xi2"
+        },
+        {
+          "a": "問",
+          "b": "wèn",
+          "pron": "wen4"
+        },
+        {
+          "a": "問題",
+          "b": "wèntí",
+          "pron": "wen4 ti2"
+        },
+        {
+          "a": "為什麼",
+          "b": "wèishénme",
+          "pron": "wei4 shen2 me5"
+        },
+        {
+          "a": "回答",
+          "b": "huídá",
+          "pron": "hui2 da2"
+        },
+        {
+          "a": "參加",
+          "b": "cānjiā",
+          "pron": "can1 jia1"
+        },
+        {
+          "a": "知道",
+          "b": "zhīdào",
+          "pron": "zhi1 dao4"
+        },
+        {
+          "a": "懂",
+          "b": "dǒng",
+          "pron": "dong3"
+        },
+        {
+          "a": "能",
+          "b": "néng",
+          "pron": "neng2"
+        },
+        {
+          "a": "會",
+          "b": "huì",
+          "pron": "hui4"
+        },
+        {
+          "a": "可以",
+          "b": "kěyǐ",
+          "pron": "ke3 yi3"
+        },
+        {
+          "a": "休息",
+          "b": "xiūxí",
+          "pron": "xiu1 xi1"
+        },
+        {
+          "a": "有趣",
+          "b": "yǒuqù",
+          "pron": "you3 qu4"
+        },
+        {
+          "a": "決定",
+          "b": "juédìng",
+          "pron": "jue2 ding4"
+        },
+        {
+          "a": "張",
+          "b": "zhāng",
+          "pron": "zhang1"
+        },
+        {
+          "a": "圖片",
+          "b": "túpiàn",
+          "pron": "tu2 pian4"
+        },
+        {
+          "a": "畫",
+          "b": "huà",
+          "pron": "hua4"
+        },
+        {
+          "a": "畫",
+          "b": "huà",
+          "pron": "hua4"
+        },
+        {
+          "a": "意思",
+          "b": "yìsi",
+          "pron": "yi4 si1"
+        },
+        {
+          "a": "記得",
+          "b": "jìdé",
+          "pron": "ji4 de2"
+        },
+        {
+          "a": "一些",
+          "b": "yīxiē",
+          "pron": "yi1 xie1"
+        },
+        {
+          "a": "一點",
+          "b": "yīdiǎn",
+          "pron": "yi1 dian3"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "房子",
+          "b": "fángzi",
+          "pron": "fang2 zi5"
+        },
+        {
+          "a": "房間",
+          "b": "fángjiān",
+          "pron": "fang2 jian1"
+        },
+        {
+          "a": "廚房",
+          "b": "chúfáng",
+          "pron": "chu2 fang2"
+        },
+        {
+          "a": "客廳",
+          "b": "kètīng",
+          "pron": "ke4 ting1"
+        },
+        {
+          "a": "門",
+          "b": "mén",
+          "pron": "men2"
+        },
+        {
+          "a": "窗戶",
+          "b": "chuānghù",
+          "pron": "chuang1 hu4"
+        },
+        {
+          "a": "樓",
+          "b": "lóu",
+          "pron": "lou2"
+        },
+        {
+          "a": "樓上",
+          "b": "lóushàng",
+          "pron": "lou2 shang4"
+        },
+        {
+          "a": "樓下",
+          "b": "lóuxià",
+          "pron": "lou2 xia4"
+        },
+        {
+          "a": "電梯",
+          "b": "diàntī",
+          "pron": "dian4 ti1"
+        },
+        {
+          "a": "家具",
+          "b": "jiājù",
+          "pron": "jia1 ju4"
+        },
+        {
+          "a": "椅子",
+          "b": "yǐzi",
+          "pron": "yi3 zi5"
+        },
+        {
+          "a": "桌子",
+          "b": "zhuōzi",
+          "pron": "zhuo1 zi5"
+        },
+        {
+          "a": "沙發",
+          "b": "shāfā",
+          "pron": "sha1 fa1"
+        },
+        {
+          "a": "床",
+          "b": "chuáng",
+          "pron": "chuang2"
+        },
+        {
+          "a": "開",
+          "b": "kāi",
+          "pron": "kai1"
+        },
+        {
+          "a": "關",
+          "b": "guān",
+          "pron": "guan1"
+        },
+        {
+          "a": "電視",
+          "b": "diànshì",
+          "pron": "dian4 shi4"
+        },
+        {
+          "a": "冷氣",
+          "b": "lěngqì",
+          "pron": "leng3 qi4"
+        },
+        {
+          "a": "洗澡",
+          "b": "xǐzǎo",
+          "pron": "xi3 zao3"
+        },
+        {
+          "a": "安靜",
+          "b": "ānjìng",
+          "pron": "an1 jing4"
+        },
+        {
+          "a": "不錯",
+          "b": "bùcuò",
+          "pron": "bu4 cuo4"
+        },
+        {
+          "a": "河",
+          "b": "hé",
+          "pron": "he2"
+        },
+        {
+          "a": "海",
+          "b": "hǎi",
+          "pron": "hai3"
+        },
+        {
+          "a": "海邊",
+          "b": "hǎibiān",
+          "pron": "hai3 bian1"
+        },
+        {
+          "a": "湖",
+          "b": "hú",
+          "pron": "hu2"
+        },
+        {
+          "a": "山",
+          "b": "shān",
+          "pron": "shan1"
+        },
+        {
+          "a": "樹",
+          "b": "shù",
+          "pron": "shu4"
+        },
+        {
+          "a": "花",
+          "b": "huā",
+          "pron": "hua1"
+        },
+        {
+          "a": "馬",
+          "b": "mǎ",
+          "pron": "ma3"
+        },
+        {
+          "a": "狗",
+          "b": "gǒu",
+          "pron": "gou3"
+        },
+        {
+          "a": "鳥",
+          "b": "niǎo",
+          "pron": "niao3"
+        },
+        {
+          "a": "貓",
+          "b": "māo",
+          "pron": "mao1"
+        },
+        {
+          "a": "雞",
+          "b": "jī",
+          "pron": "ji1"
+        },
+        {
+          "a": "魚",
+          "b": "yú",
+          "pron": "yu2"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "太陽",
+          "b": "tàiyáng",
+          "pron": "tai4 yang2"
+        },
+        {
+          "a": "水",
+          "b": "shuǐ",
+          "pron": "shui3"
+        },
+        {
+          "a": "天氣",
+          "b": "tiānqì",
+          "pron": "tian1 qi4"
+        },
+        {
+          "a": "冷",
+          "b": "lěng",
+          "pron": "leng3"
+        },
+        {
+          "a": "熱",
+          "b": "rè",
+          "pron": "re4"
+        },
+        {
+          "a": "下雨",
+          "b": "xiàyǔ",
+          "pron": "xia4 yu3"
+        },
+        {
+          "a": "下雪",
+          "b": "xiàxuě",
+          "pron": "xia4 xue3"
+        },
+        {
+          "a": "風",
+          "b": "fēng",
+          "pron": "feng1"
+        },
+        {
+          "a": "穿",
+          "b": "chuān",
+          "pron": "chuan1"
+        },
+        {
+          "a": "睡覺",
+          "b": "shuìjiào",
+          "pron": "shui4 jue2"
+        },
+        {
+          "a": "起床",
+          "b": "qǐchuáng",
+          "pron": "qi3 chuang2"
+        },
+        {
+          "a": "咖啡",
+          "b": "kāfēi",
+          "pron": "ka1 fei1"
+        },
+        {
+          "a": "茶",
+          "b": "chá",
+          "pron": "cha2"
+        },
+        {
+          "a": "洗",
+          "b": "xǐ",
+          "pron": "xi3"
+        },
+        {
+          "a": "方便",
+          "b": "fāngbiàn",
+          "pron": "fang1 bian4"
+        },
+        {
+          "a": "生活",
+          "b": "shēnghuó",
+          "pron": "sheng1 huo2"
+        },
+        {
+          "a": "用",
+          "b": "yòng",
+          "pron": "yong4"
+        },
+        {
+          "a": "新年",
+          "b": "xīnnián",
+          "pron": "xin1 nian2"
+        },
+        {
+          "a": "開始",
+          "b": "kāishǐ",
+          "pron": "kai1 shi3"
+        },
+        {
+          "a": "運動",
+          "b": "yùndòng",
+          "pron": "yun4 dong4"
+        },
+        {
+          "a": "運動",
+          "b": "yùndòng",
+          "pron": "yun4 dong4"
+        },
+        {
+          "a": "游泳",
+          "b": "yóuyǒng",
+          "pron": "you2 yong3"
+        },
+        {
+          "a": "踢",
+          "b": "tī",
+          "pron": "ti1"
+        },
+        {
+          "a": "足球",
+          "b": "zúqiú",
+          "pron": "zu2 qiu2"
+        },
+        {
+          "a": "打",
+          "b": "dǎ",
+          "pron": "da3"
+        },
+        {
+          "a": "籃球",
+          "b": "lánqiú",
+          "pron": "lan2 qiu2"
+        },
+        {
+          "a": "網球",
+          "b": "wǎngqiú",
+          "pron": "wang3 qiu2"
+        },
+        {
+          "a": "棒球",
+          "b": "bàngqiú",
+          "pron": "bang4 qiu2"
+        },
+        {
+          "a": "比賽",
+          "b": "bǐsài",
+          "pron": "bi3 sai4"
+        },
+        {
+          "a": "騎",
+          "b": "qí",
+          "pron": "qi2"
+        },
+        {
+          "a": "腳踏車",
+          "b": "jiǎotàchē",
+          "pron": "jiao3 ta4 che1"
+        },
+        {
+          "a": "跑",
+          "b": "pǎo",
+          "pron": "pao3"
+        },
+        {
+          "a": "跑步",
+          "b": "pǎobù",
+          "pron": "pao3 bu4"
+        },
+        {
+          "a": "走",
+          "b": "zǒu",
+          "pron": "zou3"
+        },
+        {
+          "a": "走路",
+          "b": "zǒulù",
+          "pron": "zou3 lu4"
+        },
+        {
+          "a": "電影",
+          "b": "diànyǐng",
+          "pron": "dian4 ying3"
+        },
+        {
+          "a": "電影院",
+          "b": "diànyǐngyuàn",
+          "pron": "dian4 ying3 yuan4"
+        },
+        {
+          "a": "票",
+          "b": "piào",
+          "pron": "piao4"
+        },
+        {
+          "a": "音樂",
+          "b": "yīnyuè",
+          "pron": "yin1 le4"
+        },
+        {
+          "a": "表演",
+          "b": "biǎoyǎn",
+          "pron": "biao3 yan3"
+        },
+        {
+          "a": "看",
+          "b": "kàn",
+          "pron": "kan4"
+        },
+        {
+          "a": "上網",
+          "b": "shàngwǎng",
+          "pron": "shang4 wang3"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "以前",
+          "b": "yǐqián",
+          "pron": "yi3 qian2"
+        },
+        {
+          "a": "以後",
+          "b": "yǐhòu",
+          "pron": "yi3 hou4"
+        },
+        {
+          "a": "等",
+          "b": "děng",
+          "pron": "deng3"
+        },
+        {
+          "a": "輸",
+          "b": "shū",
+          "pron": "shu1"
+        },
+        {
+          "a": "贏",
+          "b": "yíng",
+          "pron": "ying2"
+        },
+        {
+          "a": "有時候",
+          "b": "yǒushíhòu",
+          "pron": "you3 shi2 hou4"
+        },
+        {
+          "a": "常常",
+          "b": "chángcháng",
+          "pron": "chang2 chang2"
+        },
+        {
+          "a": "久",
+          "b": "jiǔ",
+          "pron": "jiu3"
+        },
+        {
+          "a": "先",
+          "b": "xiān",
+          "pron": "xian1"
+        },
+        {
+          "a": "再",
+          "b": "zài",
+          "pron": "zai4"
+        },
+        {
+          "a": "每",
+          "b": "měi",
+          "pron": "mei3"
+        },
+        {
+          "a": "次",
+          "b": "cì",
+          "pron": "ci4"
+        },
+        {
+          "a": "報紙",
+          "b": "bàozhǐ",
+          "pron": "bao4 zhi3"
+        },
+        {
+          "a": "照片",
+          "b": "zhàopiàn",
+          "pron": "zhao4 pian1"
+        },
+        {
+          "a": "書",
+          "b": "shū",
+          "pron": "shu1"
+        },
+        {
+          "a": "唱歌",
+          "b": "chànggē",
+          "pron": "chang4 ge1"
+        },
+        {
+          "a": "玩",
+          "b": "wán",
+          "pron": "wan2"
+        },
+        {
+          "a": "朋友",
+          "b": "péngyǒu",
+          "pron": "peng2 you3"
+        },
+        {
+          "a": "介紹",
+          "b": "jièshào",
+          "pron": "jie4 shao4"
+        },
+        {
+          "a": "認識",
+          "b": "rènshi",
+          "pron": "ren4 shi2"
+        },
+        {
+          "a": "謝謝",
+          "b": "xièxie",
+          "pron": "xie4 xie4"
+        },
+        {
+          "a": "不客氣",
+          "b": "bùkèqì",
+          "pron": "bu4 ke4 qi4"
+        },
+        {
+          "a": "對不起",
+          "b": "duìbuqǐ",
+          "pron": "dui4 bu4 qi3"
+        },
+        {
+          "a": "沒關係",
+          "b": "méiguānxi",
+          "pron": "mei2 guan1 xi4"
+        },
+        {
+          "a": "再見",
+          "b": "zàijiàn",
+          "pron": "zai4 jian4"
+        },
+        {
+          "a": "請問",
+          "b": "qǐngwèn",
+          "pron": "qing3 wen4"
+        },
+        {
+          "a": "怎麼樣",
+          "b": "zěnmeyàng",
+          "pron": "zen3 me5 yang4"
+        },
+        {
+          "a": "禮物",
+          "b": "lǐwù",
+          "pron": "li3 wu4"
+        },
+        {
+          "a": "歡迎",
+          "b": "huānyíng",
+          "pron": "huan1 ying2"
+        },
+        {
+          "a": "晚會",
+          "b": "wǎnhuì",
+          "pron": "wan3 hui4"
+        },
+        {
+          "a": "做",
+          "b": "zuò",
+          "pron": "zuo4"
+        },
+        {
+          "a": "信",
+          "b": "xìn",
+          "pron": "xin4"
+        },
+        {
+          "a": "信封",
+          "b": "xìnfēng",
+          "pron": "xin4 feng1"
+        },
+        {
+          "a": "寄",
+          "b": "jì",
+          "pron": "ji4"
+        },
+        {
+          "a": "接",
+          "b": "jiē",
+          "pron": "jie1"
+        },
+        {
+          "a": "郵局",
+          "b": "yóujú",
+          "pron": "you2 ju2"
+        },
+        {
+          "a": "銀行",
+          "b": "yínháng",
+          "pron": "yin2 xing2"
+        },
+        {
+          "a": "警察",
+          "b": "jǐngchá",
+          "pron": "jing3 cha2"
+        },
+        {
+          "a": "壞",
+          "b": "huài",
+          "pron": "huai4"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "幫忙",
+          "b": "bāngmáng",
+          "pron": "bang1 mang2"
+        },
+        {
+          "a": "換",
+          "b": "huàn",
+          "pron": "huan4"
+        },
+        {
+          "a": "東西",
+          "b": "dōngxi",
+          "pron": "dong1 xi1"
+        },
+        {
+          "a": "叫",
+          "b": "jiào",
+          "pron": "jiao4"
+        },
+        {
+          "a": "找",
+          "b": "zhǎo",
+          "pron": "zhao3"
+        },
+        {
+          "a": "什麼",
+          "b": "shénme",
+          "pron": "shen2 me5"
+        },
+        {
+          "a": "嗎",
+          "b": "ma",
+          "pron": "ma5"
+        },
+        {
+          "a": "呢",
+          "b": "ne",
+          "pron": "ne5"
+        },
+        {
+          "a": "喂",
+          "b": "wéi",
+          "pron": "wei4"
+        },
+        {
+          "a": "吧",
+          "b": "ba",
+          "pron": "ba5"
+        },
+        {
+          "a": "計程車",
+          "b": "jìchéngchē",
+          "pron": "ji4 cheng2 che1"
+        },
+        {
+          "a": "地鐵",
+          "b": "dìtiě",
+          "pron": "de5 tie3"
+        },
+        {
+          "a": "車站",
+          "b": "chēzhàn",
+          "pron": "che1 zhan4"
+        },
+        {
+          "a": "火車",
+          "b": "huǒchē",
+          "pron": "huo3 che1"
+        },
+        {
+          "a": "飛機",
+          "b": "fēijī",
+          "pron": "fei1 ji1"
+        },
+        {
+          "a": "飛機場",
+          "b": "fēijīchǎng",
+          "pron": "fei1 ji1 chang3"
+        },
+        {
+          "a": "公車",
+          "b": "gōngchē",
+          "pron": "gong1 che1"
+        },
+        {
+          "a": "車",
+          "b": "chē",
+          "pron": "che1"
+        },
+        {
+          "a": "開車",
+          "b": "kāichē",
+          "pron": "kai1 che1"
+        },
+        {
+          "a": "帶",
+          "b": "dài",
+          "pron": "dai4"
+        },
+        {
+          "a": "去",
+          "b": "qù",
+          "pron": "qu4"
+        },
+        {
+          "a": "出去",
+          "b": "chūqù",
+          "pron": "chu1 qu4"
+        },
+        {
+          "a": "進來",
+          "b": "jìnlái",
+          "pron": "jin4 lai2"
+        },
+        {
+          "a": "回",
+          "b": "huí",
+          "pron": "hui2"
+        },
+        {
+          "a": "馬路",
+          "b": "mǎlù",
+          "pron": "ma3 lu4"
+        },
+        {
+          "a": "十字路口",
+          "b": "shízìlùkǒu",
+          "pron": "shi2 zi4 lu4 kou3"
+        },
+        {
+          "a": "中間",
+          "b": "zhōngjiān",
+          "pron": "zhong1 jian1"
+        },
+        {
+          "a": "對面",
+          "b": "duìmiàn",
+          "pron": "dui4 mian4"
+        },
+        {
+          "a": "附近",
+          "b": "fùjìn",
+          "pron": "fu4 jin4"
+        },
+        {
+          "a": "旁邊",
+          "b": "pángbiān",
+          "pron": "pang2 bian1"
+        },
+        {
+          "a": "後面",
+          "b": "hòumiàn",
+          "pron": "hou4 mian4"
+        },
+        {
+          "a": "前面",
+          "b": "qiánmiàn",
+          "pron": "qian2 mian4"
+        },
+        {
+          "a": "左邊",
+          "b": "zuǒbiān",
+          "pron": "zuo3 bian1"
+        },
+        {
+          "a": "右邊",
+          "b": "yòubiān",
+          "pron": "you4 bian1"
+        },
+        {
+          "a": "外面",
+          "b": "wàimiàn",
+          "pron": "wai4 mian4"
+        },
+        {
+          "a": "裡面",
+          "b": "lǐmiàn",
+          "pron": "li3 mian4"
+        },
+        {
+          "a": "下面",
+          "b": "xiàmiàn",
+          "pron": "xia4 mian4"
+        },
+        {
+          "a": "上面",
+          "b": "shàngmiàn",
+          "pron": "shang4 mian4"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "這",
+          "b": "zhè",
+          "pron": "zhe4"
+        },
+        {
+          "a": "那",
+          "b": "nà",
+          "pron": "na4"
+        },
+        {
+          "a": "哪",
+          "b": "nǎ",
+          "pron": "na3"
+        },
+        {
+          "a": "這裡",
+          "b": "zhèlǐ",
+          "pron": "zhe4 li3"
+        },
+        {
+          "a": "那裡",
+          "b": "nàlǐ",
+          "pron": "na4 li3"
+        },
+        {
+          "a": "哪裡",
+          "b": "nǎlǐ",
+          "pron": "na3 li3"
+        },
+        {
+          "a": "怎麼",
+          "b": "zěnme",
+          "pron": "zen3 me5"
+        },
+        {
+          "a": "旅行",
+          "b": "lǚxíng",
+          "pron": "lv3 xing2"
+        },
+        {
+          "a": "飯店",
+          "b": "fàndiàn",
+          "pron": "fan4 dian4"
+        },
+        {
+          "a": "旅館",
+          "b": "lǚguǎn",
+          "pron": "lv3 guan3"
+        },
+        {
+          "a": "地方",
+          "b": "dìfāng",
+          "pron": "di4 fang1"
+        },
+        {
+          "a": "參觀",
+          "b": "cānguān",
+          "pron": "can1 guan1"
+        },
+        {
+          "a": "遠",
+          "b": "yuǎn",
+          "pron": "yuan3"
+        },
+        {
+          "a": "近",
+          "b": "jìn",
+          "pron": "jin4"
+        },
+        {
+          "a": "快",
+          "b": "kuài",
+          "pron": "kuai4"
+        },
+        {
+          "a": "慢",
+          "b": "màn",
+          "pron": "man4"
+        },
+        {
+          "a": "站",
+          "b": "zhàn",
+          "pron": "zhan4"
+        },
+        {
+          "a": "坐",
+          "b": "zuò",
+          "pron": "zuo4"
+        },
+        {
+          "a": "離",
+          "b": "lí",
+          "pron": "li2"
+        },
+        {
+          "a": "往",
+          "b": "wǎng",
+          "pron": "wang3"
+        },
+        {
+          "a": "送",
+          "b": "sòng",
+          "pron": "song4"
+        },
+        {
+          "a": "地圖",
+          "b": "dìtú",
+          "pron": "de5 tu2"
+        },
+        {
+          "a": "過",
+          "b": "guò",
+          "pron": "guo4"
+        },
+        {
+          "a": "拿",
+          "b": "ná",
+          "pron": "na2"
+        },
+        {
+          "a": "放",
+          "b": "fàng",
+          "pron": "fang4"
+        },
+        {
+          "a": "到",
+          "b": "dào",
+          "pron": "dao4"
+        },
+        {
+          "a": "照相機",
+          "b": "zhàoxiàngjī",
+          "pron": "zhao4 xiang4 ji1"
+        },
+        {
+          "a": "照相",
+          "b": "zhàoxiàng",
+          "pron": "zhao4 xiang4"
+        },
+        {
+          "a": "風景",
+          "b": "fēngjǐng",
+          "pron": "feng1 jing3"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "眼睛",
+          "b": "yǎnjīng",
+          "pron": "yan3 jing1"
+        },
+        {
+          "a": "身體",
+          "b": "shēntǐ",
+          "pron": "shen1 ti3"
+        },
+        {
+          "a": "頭",
+          "b": "tóu",
+          "pron": "tou2"
+        },
+        {
+          "a": "頭髮",
+          "b": "tóufǎ",
+          "pron": "tou2 fa4"
+        },
+        {
+          "a": "耳朵",
+          "b": "ěrduo",
+          "pron": "er3 duo3"
+        },
+        {
+          "a": "手",
+          "b": "shǒu",
+          "pron": "shou3"
+        },
+        {
+          "a": "手指",
+          "b": "shǒuzhǐ",
+          "pron": "shou3 zhi3"
+        },
+        {
+          "a": "肚子",
+          "b": "dùzi",
+          "pron": "du3 zi5"
+        },
+        {
+          "a": "累",
+          "b": "lèi",
+          "pron": "lei4"
+        },
+        {
+          "a": "健康",
+          "b": "jiànkāng",
+          "pron": "jian4 kang1"
+        },
+        {
+          "a": "感冒",
+          "b": "gǎnmào",
+          "pron": "gan3 mao4"
+        },
+        {
+          "a": "生病",
+          "b": "shēngbìng",
+          "pron": "sheng1 bing4"
+        },
+        {
+          "a": "受傷",
+          "b": "shòushāng",
+          "pron": "shou4 shang1"
+        },
+        {
+          "a": "餓",
+          "b": "è",
+          "pron": "e4"
+        },
+        {
+          "a": "渴",
+          "b": "kě",
+          "pron": "ke3"
+        },
+        {
+          "a": "舒服",
+          "b": "shūfu",
+          "pron": "shu1 fu2"
+        },
+        {
+          "a": "藥",
+          "b": "yào",
+          "pron": "yao4"
+        },
+        {
+          "a": "眼鏡",
+          "b": "yǎnjìng",
+          "pron": "yan3 jing4"
+        },
+        {
+          "a": "痛",
+          "b": "tòng",
+          "pron": "tong4"
+        },
+        {
+          "a": "想",
+          "b": "xiǎng",
+          "pron": "xiang3"
+        },
+        {
+          "a": "希望",
+          "b": "xīwàng",
+          "pron": "xi1 wang4"
+        },
+        {
+          "a": "便宜",
+          "b": "piányi",
+          "pron": "pian2 yi2"
+        },
+        {
+          "a": "貴",
+          "b": "guì",
+          "pron": "gui4"
+        },
+        {
+          "a": "容易",
+          "b": "róngyì",
+          "pron": "rong2 yi4"
+        },
+        {
+          "a": "難",
+          "b": "nán",
+          "pron": "nan2"
+        },
+        {
+          "a": "要",
+          "b": "yào",
+          "pron": "yao4"
+        },
+        {
+          "a": "好吃",
+          "b": "hǎochī",
+          "pron": "hao3 chi1"
+        },
+        {
+          "a": "商店",
+          "b": "shāngdiàn",
+          "pron": "shang1 dian4"
+        },
+        {
+          "a": "店",
+          "b": "diàn",
+          "pron": "dian4"
+        },
+        {
+          "a": "市場",
+          "b": "shìchǎng",
+          "pron": "shi4 chang3"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "重要",
+          "b": "zhòngyào",
+          "pron": "zhong4 yao4"
+        },
+        {
+          "a": "給",
+          "b": "gěi",
+          "pron": "gei3"
+        },
+        {
+          "a": "給",
+          "b": "gěi",
+          "pron": "gei3"
+        },
+        {
+          "a": "有",
+          "b": "yǒu",
+          "pron": "you3"
+        },
+        {
+          "a": "公斤",
+          "b": "gōngjīn",
+          "pron": "gong1 jin1"
+        },
+        {
+          "a": "顏色",
+          "b": "yánsè",
+          "pron": "yan2 se4"
+        },
+        {
+          "a": "黃色",
+          "b": "huángsè",
+          "pron": "huang2 se4"
+        },
+        {
+          "a": "白色",
+          "b": "báisè",
+          "pron": "bai2 se4"
+        },
+        {
+          "a": "衣服",
+          "b": "yīfu",
+          "pron": "yi1 fu2"
+        },
+        {
+          "a": "襪子",
+          "b": "wàzi",
+          "pron": "wa4 zi5"
+        },
+        {
+          "a": "褲子",
+          "b": "kùzi",
+          "pron": "ku4 zi5"
+        },
+        {
+          "a": "裙子",
+          "b": "qúnzi",
+          "pron": "qun2 zi5"
+        },
+        {
+          "a": "鞋子",
+          "b": "xiézi",
+          "pron": "xie2 zi5"
+        },
+        {
+          "a": "雙",
+          "b": "shuāng",
+          "pron": "shuang1"
+        },
+        {
+          "a": "大",
+          "b": "dà",
+          "pron": "da4"
+        },
+        {
+          "a": "長",
+          "b": "cháng",
+          "pron": "zhang3"
+        },
+        {
+          "a": "小",
+          "b": "xiǎo",
+          "pron": "xiao3"
+        },
+        {
+          "a": "短",
+          "b": "duǎn",
+          "pron": "duan3"
+        },
+        {
+          "a": "新",
+          "b": "xīn",
+          "pron": "xin1"
+        },
+        {
+          "a": "錢",
+          "b": "qián",
+          "pron": "qian2"
+        },
+        {
+          "a": "元",
+          "b": "yuán",
+          "pron": "yuan2"
+        },
+        {
+          "a": "比",
+          "b": "bǐ",
+          "pron": "bi3"
+        },
+        {
+          "a": "多少",
+          "b": "duōshǎo",
+          "pron": "duo1 shao3"
+        },
+        {
+          "a": "小心",
+          "b": "xiǎoxīn",
+          "pron": "xiao3 xin1"
+        },
+        {
+          "a": "一樣",
+          "b": "yīyàng",
+          "pron": "yi1 yang4"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "牛奶",
+          "b": "niúnǎi",
+          "pron": "niu2 nai3"
+        },
+        {
+          "a": "肉",
+          "b": "ròu",
+          "pron": "rou4"
+        },
+        {
+          "a": "蛋",
+          "b": "dàn",
+          "pron": "dan4"
+        },
+        {
+          "a": "菜",
+          "b": "cài",
+          "pron": "cai4"
+        },
+        {
+          "a": "餃子",
+          "b": "jiǎozi",
+          "pron": "jiao3 zi5"
+        },
+        {
+          "a": "飯",
+          "b": "fàn",
+          "pron": "fan4"
+        },
+        {
+          "a": "麵",
+          "b": "miàn",
+          "pron": "mian4"
+        },
+        {
+          "a": "湯",
+          "b": "tāng",
+          "pron": "tang1"
+        },
+        {
+          "a": "包子",
+          "b": "bāozi",
+          "pron": "bao1 zi5"
+        },
+        {
+          "a": "蛋糕",
+          "b": "dàngāo",
+          "pron": "dan4 gao1"
+        },
+        {
+          "a": "麵包",
+          "b": "miànbāo",
+          "pron": "mian4 bao1"
+        },
+        {
+          "a": "水果",
+          "b": "shuǐguǒ",
+          "pron": "shui3 guo3"
+        },
+        {
+          "a": "蘋果",
+          "b": "píngguǒ",
+          "pron": "ping2 guo3"
+        },
+        {
+          "a": "香蕉",
+          "b": "xiāngjiāo",
+          "pron": "xiang1 jiao1"
+        },
+        {
+          "a": "食物",
+          "b": "shíwù",
+          "pron": "shi2 wu4"
+        },
+        {
+          "a": "飲料",
+          "b": "yǐnliào",
+          "pron": "yin3 liao4"
+        },
+        {
+          "a": "果汁",
+          "b": "guǒzhī",
+          "pron": "guo3 zhi1"
+        },
+        {
+          "a": "酒",
+          "b": "jiǔ",
+          "pron": "jiu3"
+        },
+        {
+          "a": "杯",
+          "b": "bēi",
+          "pron": "bei1"
+        },
+        {
+          "a": "杯子",
+          "b": "bēizi",
+          "pron": "bei1 zi5"
+        },
+        {
+          "a": "請",
+          "b": "qǐng",
+          "pron": "qing3"
+        },
+        {
+          "a": "吃",
+          "b": "chī",
+          "pron": "chi1"
+        },
+        {
+          "a": "喝",
+          "b": "hē",
+          "pron": "he1"
+        },
+        {
+          "a": "多",
+          "b": "duō",
+          "pron": "duo1"
+        },
+        {
+          "a": "少",
+          "b": "shǎo",
+          "pron": "shao3"
+        },
+        {
+          "a": "甜",
+          "b": "tián",
+          "pron": "tian2"
+        }
+      ]
+    },
+    {
+      "title": "New level",
+      "rows": [
+        {
+          "a": "菜單",
+          "b": "càidān",
+          "pron": "cai4 dan1"
+        },
+        {
+          "a": "巧克力",
+          "b": "qiǎokèlì",
+          "pron": "qiao3 ke4 li4"
+        },
+        {
+          "a": "幾",
+          "b": "jǐ",
+          "pron": "ji3"
+        },
+        {
+          "a": "塊",
+          "b": "kuài",
+          "pron": "kuai4"
+        },
+        {
+          "a": "碗",
+          "b": "wǎn",
+          "pron": "wan3"
+        },
+        {
+          "a": "盤子",
+          "b": "pánzi",
+          "pron": "pan2 zi5"
+        },
+        {
+          "a": "片",
+          "b": "piàn",
+          "pron": "pian4"
+        },
+        {
+          "a": "瓶",
+          "b": "píng",
+          "pron": "ping2"
+        },
+        {
+          "a": "件",
+          "b": "jiàn",
+          "pron": "jian4"
+        },
+        {
+          "a": "一半",
+          "b": "yībàn",
+          "pron": "yi2 ban4"
+        },
+        {
+          "a": "因為",
+          "b": "yīnwèi",
+          "pron": "yin1 wei4"
+        },
+        {
+          "a": "所以",
+          "b": "suǒyǐ",
+          "pron": "suo3 yi3"
+        },
+        {
+          "a": "可是",
+          "b": "kěshì",
+          "pron": "ke3 shi4"
+        },
+        {
+          "a": "和",
+          "b": "hé",
+          "pron": "he2"
+        },
+        {
+          "a": "跟",
+          "b": "gēn",
+          "pron": "gen1"
+        },
+        {
+          "a": "一起",
+          "b": "yīqǐ",
+          "pron": "yi4 qi3"
+        },
+        {
+          "a": "沒",
+          "b": "méi",
+          "pron": "mei2"
+        },
+        {
+          "a": "不",
+          "b": "bù",
+          "pron": "bu4"
+        },
+        {
+          "a": "也",
+          "b": "yě",
+          "pron": "ye3"
+        },
+        {
+          "a": "都",
+          "b": "dōu",
+          "pron": "dou1"
+        },
+        {
+          "a": "只",
+          "b": "zhǐ",
+          "pron": "zhi3"
+        },
+        {
+          "a": "得",
+          "b": "dé",
+          "pron": "de2"
+        },
+        {
+          "a": "了",
+          "b": "le",
+          "pron": "le5"
+        },
+        {
+          "a": "著",
+          "b": "zhe",
+          "pron": "zhu4"
+        },
+        {
+          "a": "過",
+          "b": "guò",
+          "pron": "guo4"
+        },
+        {
+          "a": "還是",
+          "b": "háishì",
+          "pron": "hai2 shi4"
+        },
+        {
+          "a": "可能",
+          "b": "kěnéng",
+          "pron": "ke3 neng2"
+        },
+        {
+          "a": "一定",
+          "b": "yīdìng",
+          "pron": "yi2 ding4"
+        }
+      ]
+    }
+  ]
+}
